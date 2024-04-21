@@ -48,6 +48,7 @@ A définir
 * java
 * Spring
 * Junit
+* Sonar
 
 ## Contribution
 
